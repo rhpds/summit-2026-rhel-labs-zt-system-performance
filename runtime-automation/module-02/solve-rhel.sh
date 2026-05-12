@@ -5,3 +5,4 @@ echo "Solving module called module-02" >> /tmp/progress.log
 uptime
 free -h
 cat /home/rhel/note-from-scott.txt
+exit 0
